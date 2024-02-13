@@ -46,5 +46,9 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
             Passo 01 - Criação dos dados de teste para serem adicionados no Banco de Dados AWS Athena:
 
+                Foram criados dois buckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida no Amazon S3. 
+                O bucket: s3-bucket-athena-desafioilia foi criado para adicionar os quatros arquivos json e com eles serem criada uma tabela no Banco de Dados AWS Athena.
+                Já o bucket: s3-bucket-athena-desafioilia-saida foi criado para receber as informações que serão criadas pelas consultas criadas com a tabela do Banco de Dados AWS Athena.
+
         
         
