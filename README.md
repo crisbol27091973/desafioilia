@@ -74,6 +74,9 @@ Evidência da tela de criação do Banco de Dados Athenas: s3jsontabelabd para c
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/7598e0f3-b5b5-4cb5-8cbc-869902864443)
 
+Evidência da tela de criação da tabela: s3jsontabela criada no Banco de Dados Athenas: s3jsontabelabd segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/c394ad35-6b6e-4821-9d0f-943da727386a)
 
 
 
