@@ -102,6 +102,17 @@ Evidência da tela de Conexão do Grafana com o meu Datasource segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/197ef94f-0829-4b4a-830a-fd25f9460f44)
 
+Evidência da tela de Conexão do Grafana com o meu Dashboard segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/96b52eb4-1c0b-4f4b-97c0-41c28dee710f)
+
+# Quuinto passo do Desafio Ília
+
+​✓ Prover observabilidade dos recursos criados durante o desafio. Você deverá monitorar o desempenho, a​ disponibilidade e o consumo dos recursos.​
+
+Evidência da tela de Conexão do Grafana com o meu Dashboard segue abaixo:
+
+
 
 
                 
