@@ -18,15 +18,31 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 ![Captura de tela 2024-02-11 161503](https://github.com/crisbol27091973/desafioilia/assets/48601776/31479efb-aee5-4c56-a9f9-f2d085d15e2b)
 
 
-# Primeio passo do Desafio Ília
+# Primeiro passo do Desafio Ília
 
 ​✓ Usar o Terraform para criar um cluster Kubernetes na AWS. Você deverá configurar o cluster de forma ​segura, escalável e eficiente.​
 
+    Terraform EKS (Elastic Kubernete Service)
 
-     # Terraform EKS (Elastic Kubernete Service)
       Arquivos do Terraform EKS:
 
           1. exemplo-completo.tf - Exemplo completo com VPC e EKS cluster 
-          2. iniciar-exemplo.tf - - DIY inicar exemplo com VPC (adicionar seu próprio código EKS)
+          2. iniciar-exemplo.tf - DIY inicar exemplo com VPC (adicionar seu próprio código EKS)
+
+# Segundo passo do Desafio Ília
+
+✓ Usar o Helm Charts para instalar e configurar um Grafana no cluster Kubernetes. Você deverá​ personalizar o Grafana de acordo com as necessidades.​
+
+ 	  Arquivos do Helm Charts:
+
+          1. helm-chart-passos-instalar-configurar.txt - Comandos da instlalação do Grafana ou Prometheus
 
 
+# Terceiro passo do Desafio Ília
+
+ ​✓ Criar um AWS Timestream ou Athena e adicionar dados de teste no mesmo.​
+
+ 		Passo a Passo da minha criação do AWS AThena e adição dos dados de teste do mesmo:
+
+        Passo 01 - Criação do
+        
