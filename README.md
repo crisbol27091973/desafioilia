@@ -50,5 +50,12 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
                 O bucket: s3-bucket-athena-desafioilia foi criado para adicionar os quatros arquivos json e com eles serem criada uma tabela no Banco de Dados AWS Athena.
                 Já o bucket: s3-bucket-athena-desafioilia-saida foi criado para receber as informações que serão criadas pelas consultas criadas com a tabela do Banco de Dados AWS Athena.
 
+                Evidência da tela de criação do BUckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/d7cab6fd-39bf-4e94-83c9-53425f5358e1)
+
+
+                
+            
         
         
