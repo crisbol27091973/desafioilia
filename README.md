@@ -42,21 +42,27 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
  ​✓ Criar um AWS Timestream ou Athena e adicionar dados de teste no mesmo.​
 
- 		Passo a Passo da minha criação do AWS AThena e adição dos dados de teste do mesmo:
+ Passo a Passo da minha criação do AWS AThena e adição dos dados de teste do mesmo:
 
-            Passo 01 - Criação dos dados de teste para serem adicionados no Banco de Dados AWS Athena:
+ Passo 01 - Criação dos dados de teste para serem adicionados no Banco de Dados AWS Athena:
 
-                Foram criados dois buckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida no Amazon S3. 
-                O bucket: s3-bucket-athena-desafioilia foi criado para adicionar os quatros arquivos json e com eles serem criada uma tabela no Banco de Dados AWS Athena.
-                Já o bucket: s3-bucket-athena-desafioilia-saida foi criado para receber as informações que serão criadas pelas consultas criadas com a tabela do Banco de Dados AWS Athena.
+ Foram criados dois buckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida no Amazon S3. 
+ O bucket: s3-bucket-athena-desafioilia foi criado para adicionar os quatros arquivos json e com eles serem criada uma tabela no Banco de Dados AWS Athena.
+ Já o bucket: s3-bucket-athena-desafioilia-saida foi criado para receber as informações que serão criadas pelas consultas criadas com a tabela do Banco de Dados AWS Athena.
 
 Evidência da tela de criação dos dois Buckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/d7cab6fd-39bf-4e94-83c9-53425f5358e1)
 
-Evidência da tela do criação do Bucket: s3-bucket-athena-desafioilia com os arquivos json acdicionados segue abaixo:
+Evidência da tela do Bucket: s3-bucket-athena-desafioilia onde os arquivos json foram adicionados segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/0cf5ff72-9820-427a-8375-ff64f138589f)
+
+Evidência da tela do Bucket: s3-bucket-athena-desafioilia-saida onde ficam informações das consultas realizadas nos dados do  Bucket: s3-bucket-athena-desafioilia-saida segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/257dc515-114a-439c-93ea-cd75947831f9)
+
+
 
 
                 
