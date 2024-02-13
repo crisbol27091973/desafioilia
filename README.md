@@ -24,7 +24,7 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
       Arquivos do Terraform EKS:
 
-          1. exemplo-completo.tf - Exemplo completo com VPC e EKS cluster
+          1. exemplo-completo.tf - Exemplo completo com VPC e EKS cluster 
           2. iniciar-exemplo.tf - - DIY inicar exemplo com VPC (adicionar seu próprio código EKS)
 
 
