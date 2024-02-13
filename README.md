@@ -35,14 +35,14 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
  	  Arquivos do Helm Charts:
 
-          1. helm-chart-passos-instalar-configurar.txt - Comandos da instlalação do Grafana ou Prometheus
+          1. helm-chart-passos-instalar-configurar.txt - Comandos da instalação do Grafana ou Prometheus
 
 
 # Terceiro passo do Desafio Ília
 
  ​✓ Criar um AWS Timestream ou Athena e adicionar dados de teste no mesmo.​
 
- Passo a Passo da minha criação do AWS AThena e adição dos dados de teste do mesmo:
+ Passo a Passo da minha criação do AWS Athena e adição dos dados de teste do mesmo:
 
  Passo 01 - Criação dos dados de teste para serem adicionados no Banco de Dados AWS Athena:
 
@@ -58,7 +58,7 @@ Evidência da tela do Bucket: s3-bucket-athena-desafioilia onde os arquivos json
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/0cf5ff72-9820-427a-8375-ff64f138589f)
 
-Evidência da tela do Bucket: s3-bucket-athena-desafioilia-saida onde ficam informações das consultas realizadas nos dados do  Bucket: s3-bucket-athena-desafioilia-saida segue abaixo:
+Evidência da tela do Bucket: s3-bucket-athena-desafioilia-saida onde ficam informações das consultas realizadas nos dados do Bucket: s3-bucket-athena-desafioilia-saida segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/257dc515-114a-439c-93ea-cd75947831f9)
 
@@ -82,6 +82,18 @@ Evidência da tela de consultas a tabela: s3jsontabela criada no Banco de Dados 
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/f2a05b38-1b2e-43bf-8fec-337f7a7b030e)
 
+# Quarto passo do Desafio Ília
+
+ ✓ Adicionar o datasource do AWS Timestream ou Athena no Grafana e mostrar os dados do Timestream ou ​Athena por meio de algum dashboard. Você deverá criar gráficos, tabelas e painéis que apresentem as
+informações de forma​ clara e intuitiva.​
+
+Evidência da tela onde ligampos o datasource: JsonConsulta ao Athena no Grafana segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/8a78fc30-eca7-4498-986c-60d40978023a)
+
+Evidência da tela de configuração do Grafana com a minha conta AWS ativada aos serviços do Grafana segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/016d3264-6e0c-4535-bb16-015f1c82af0d)
 
 
 
