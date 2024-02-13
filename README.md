@@ -44,5 +44,7 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
  		Passo a Passo da minha criação do AWS AThena e adição dos dados de teste do mesmo:
 
-        Passo 01 - Criação do
+            Passo 01 - Criação dos dados de teste para serem adicionados no Banco de Dados AWS Athena:
+
+        
         
