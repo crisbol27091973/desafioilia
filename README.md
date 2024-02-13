@@ -64,7 +64,7 @@ Evidência da tela do Bucket: s3-bucket-athena-desafioilia-saida onde ficam info
 
 Passo 02 - Transformação dos dados de teste (arquivos json) em formato de tabela no Banco de Dados AWS Athena:
 
-Foi criado um Grupo de Trabalho (Workspace) para posterior criação da tabela dos arquivos json.
+Foi criado um Grupo de Trabalho (Workspace): JsonConsulta para posterior criação da tabela dos arquivos json.
 
 Evidência da tela de criação do Grupo de Trabalho: JsonConsulta baseado no Bucket: s3-bucket-athena-desafioilia-saida segue abaixo:
 
