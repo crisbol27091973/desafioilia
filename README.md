@@ -13,7 +13,7 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
     ​✓ Prover observabilidade dos recursos criados durante o desafio. Você deverá monitorar o desempenho, a​ disponibilidade e o consumo dos recursos.​
 
-# Desenho Visão Geral da Solução
+# Desenho da Visão Geral da Solução
 
 ![Captura de tela 2024-02-11 161503](https://github.com/crisbol27091973/desafioilia/assets/48601776/31479efb-aee5-4c56-a9f9-f2d085d15e2b)
 
@@ -106,7 +106,7 @@ Evidência da tela de Conexão do Grafana com o meu Dashboard segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/96b52eb4-1c0b-4f4b-97c0-41c28dee710f)
 
-# Quuinto passo do Desafio Ília
+# Quinto passo do Desafio Ília
 
 ​✓ Prover observabilidade dos recursos criados durante o desafio. Você deverá monitorar o desempenho, a​ disponibilidade e o consumo dos recursos.​
 
