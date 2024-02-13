@@ -84,8 +84,7 @@ Evidência da tela de consultas a tabela: s3jsontabela criada no Banco de Dados 
 
 # Quarto passo do Desafio Ília
 
- ✓ Adicionar o datasource do AWS Timestream ou Athena no Grafana e mostrar os dados do Timestream ou ​Athena por meio de algum dashboard. Você deverá criar gráficos, tabelas e painéis que apresentem as
-informações de forma​ clara e intuitiva.​
+ ✓ Adicionar o datasource do Amazon Timestream ou Amazon Athena no Grafana e mostrar os dados do Timestream ou ​Athena por meio de algum dashboard. Você deverá criar gráficos, tabelas e painéis que apresentem as informações de forma​ clara e intuitiva.​
 
 Evidência da tela onde ligampos o datasource: JsonConsulta ao Athena no Grafana segue abaixo:
 
