@@ -4,7 +4,7 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
     ​✓ Usar o Terraform para criar um cluster Kubernetes na AWS. Você deverá configurar o cluster de forma ​segura, escalável e eficiente.​
     
-​    ✓ Usar o Helm Charts para instalar e configurar um Grafana no cluster Kubernetes. Você deverá​ personalizar o Grafana de acordo com as necessidades.​
+    ✓ Usar o Helm Charts para instalar e configurar um Grafana no cluster Kubernetes. Você deverá​ personalizar o Grafana de acordo com as necessidades.​
 
     ​✓ Criar um AWS Timestream ou Athena e adicionar dados de teste no mesmo.​
     
