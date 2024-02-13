@@ -112,6 +112,9 @@ Evidência da tela de Conexão do Grafana com o meu Dashboard segue abaixo:
 
 Evidência da tela de Conexão do Grafana com o meu Dashboard segue abaixo:
 
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/d8c264dc-a83a-4ead-8285-1f673e123bf5)
+
+
 
 
 
