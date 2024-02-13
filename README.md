@@ -22,12 +22,12 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
 
 ​✓ Usar o Terraform para criar um cluster Kubernetes na AWS. Você deverá configurar o cluster de forma ​segura, escalável e eficiente.​
 
-    Terraform EKS (Elastic Kubernete Service)
+  Terraform EKS (Elastic Kubernete Service)
 
-      Arquivos do Terraform EKS:
+  Arquivos do Terraform EKS:
 
-          1. exemplo-completo.tf - Exemplo completo com VPC e EKS cluster 
-          2. iniciar-exemplo.tf - DIY inicar exemplo com VPC (adicionar seu próprio código EKS)
+  1. exemplo-completo.tf - Exemplo completo com VPC e EKS cluster 
+  2. iniciar-exemplo.tf - DIY inicar exemplo com VPC (adicionar seu próprio código EKS)
 
 # Segundo passo do Desafio Ília
 
@@ -50,9 +50,13 @@ Neste desafio, como solicitado devo demonstrar suas habilidades de DevOps utiliz
                 O bucket: s3-bucket-athena-desafioilia foi criado para adicionar os quatros arquivos json e com eles serem criada uma tabela no Banco de Dados AWS Athena.
                 Já o bucket: s3-bucket-athena-desafioilia-saida foi criado para receber as informações que serão criadas pelas consultas criadas com a tabela do Banco de Dados AWS Athena.
 
-                Evidência da tela de criação do BUckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida segue abaixo:
+Evidência da tela de criação dos dois Buckets: s3-bucket-athena-desafioilia e s3-bucket-athena-desafioilia-saida segue abaixo:
 
 ![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/d7cab6fd-39bf-4e94-83c9-53425f5358e1)
+
+Evidência da tela do criação do Bucket: s3-bucket-athena-desafioilia com os arquivos json acdicionados segue abaixo:
+
+![image](https://github.com/crisbol27091973/desafioilia/assets/48601776/0cf5ff72-9820-427a-8375-ff64f138589f)
 
 
                 
